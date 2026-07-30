@@ -85,6 +85,11 @@ hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "b29699ffd8e82caa132d287a4383d67ae5c19be90a9bcf75b3bef0a8e1456562"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "12a622f6d7b5fd7c1a602ce0379eeb67af4c2174f9b14e4ba322d17f15421b6e"
 metafile = true
@@ -191,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "edcb5b9c085d67c0dedccd83e016481c24f91b6b077367838283c959df03336a"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
