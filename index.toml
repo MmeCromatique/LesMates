@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "com.unascribed.unsup.json"
+hash = "3b28a4b27a6870a5ab752f9f1fefffa59be3b4168aee245d9b44072640e8a82c"
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "6e746361934be98d7b3856f85d4984a611611dbacbecbcefc14fe12b97c81339"
 metafile = true
@@ -43,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/fism.pw.toml"
 hash = "3d16a74a9b47b60ce135ddc45350ff8301f37ef19b2b602dcd3373d5077eec23"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "40e90e4fcf96b43a76dd16f48d5fdb0b91d74dcf60fb34a39e58a5bdfb2abf72"
 metafile = true
 
 [[files]]
@@ -141,6 +150,15 @@ hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/brighter-sulfur-panorama.pw.toml"
+hash = "05fb03e67f032f3d73bec33b4124cd04484b644a6c7c7fcfc84008b35623a999"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "cf2c262e481143413cb5222eb514d0f2e5ecb92be6b7fa44673311d2ba963fb0"

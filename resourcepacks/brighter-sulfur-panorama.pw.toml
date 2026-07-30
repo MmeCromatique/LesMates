@@ -1,0 +1,13 @@
+name = "Brighter Sulfur Panorama"
+filename = "brighter_sulfur_panorama_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ysCYGCc/versions/PPTkd7Mg/brighter_sulfur_panorama_1.0.zip"
+hash-format = "sha512"
+hash = "4af299d22ce5ca65bf3dc5ae428c449561bf528f47a22e4f49f6e037e236cdb4ab67d8a12e05fb55f154bad3a9c32a0b3d0b9e02293d9dd249c458a41c35686b"
+
+[update]
+[update.modrinth]
+mod-id = "7ysCYGCc"
+version = "PPTkd7Mg"
