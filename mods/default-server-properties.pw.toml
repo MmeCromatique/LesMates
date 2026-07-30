@@ -1,0 +1,13 @@
+name = "Default Server Properties"
+filename = "default-server-properties-fabric-26.2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fnrzx9Jl/versions/G8GGdgul/default-server-properties-fabric-26.2.0.1.jar"
+hash-format = "sha512"
+hash = "ad34fe8206813b376986cc02cb61b4c33cea87425d5bc72a23a99c5950dbe7d446e68ff2ee7a97d172166ec6619c369363ca1eebe38b3507f71c436f788ea466"
+
+[update]
+[update.modrinth]
+mod-id = "Fnrzx9Jl"
+version = "G8GGdgul"
