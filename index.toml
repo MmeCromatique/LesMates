@@ -5,6 +5,10 @@ file = "com.unascribed.unsup.json"
 hash = "3b28a4b27a6870a5ab752f9f1fefffa59be3b4168aee245d9b44072640e8a82c"
 
 [[files]]
+file = "config/iris.properties"
+hash = "156a162864179c68d93bb84a08b9e50e9bb5852ad2d9344488253107ed5038f4"
+
+[[files]]
 file = "global_packs/required_data/VanillaTweaks_c209676_MC26.2.zip"
 hash = "079a74ba7c95af0700dd002fe7f474b4b920c643c06ecf389a8b654ee20ac939"
 
@@ -235,4 +239,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "cf2c262e481143413cb5222eb514d0f2e5ecb92be6b7fa44673311d2ba963fb0"
+hash = "a2bd08dd5f01edb2a77c009833112f55484bf247c3fb0b36ca31bb87c443ac21"
