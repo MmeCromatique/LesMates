@@ -110,11 +110,6 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
-file = "mods/ferrite.pw.toml"
-hash = "048d915be23fd3742f0a82f3b262f86bb9c24072b8f00257caf796d1267a69ed"
-metafile = true
-
-[[files]]
 file = "mods/fism.pw.toml"
 hash = "3d16a74a9b47b60ce135ddc45350ff8301f37ef19b2b602dcd3373d5077eec23"
 metafile = true
