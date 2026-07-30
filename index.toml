@@ -5,6 +5,71 @@ file = "com.unascribed.unsup.json"
 hash = "3b28a4b27a6870a5ab752f9f1fefffa59be3b4168aee245d9b44072640e8a82c"
 
 [[files]]
+file = "global_packs/required_data/VanillaTweaks_c209676_MC26.2.zip"
+hash = "079a74ba7c95af0700dd002fe7f474b4b920c643c06ecf389a8b654ee20ac939"
+
+[[files]]
+file = "global_packs/required_data/anti enderman grief v1.1.17 (MC 26.2).zip"
+hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
+
+[[files]]
+file = "global_packs/required_data/armor statues v2.8.23 (MC 26.2).zip"
+hash = "9fcbb5875c40c7616a9c8200b5db4cef53d9fe157da8b9d4682ad31c8ba2b448"
+
+[[files]]
+file = "global_packs/required_data/cauldron concrete v3.1.1 (MC 26.2).zip"
+hash = "133c16628ed35bc28317f41eefd2f99c4b6ed8cea165819032de3c0b7b8ec9d7"
+
+[[files]]
+file = "global_packs/required_data/cauldron mud v1.0.10 (MC 26.2).zip"
+hash = "c5300be977d28bb1eeb7c1483a6c07d191b56bd1ffd4a22f5fc08ac89e3e88f8"
+
+[[files]]
+file = "global_packs/required_data/custom nether portals v2.3.20 (MC 26.2).zip"
+hash = "141ff3190a16935259beefd0a562ebe7769f7b78f82f64d0aebe30c57f743054"
+
+[[files]]
+file = "global_packs/required_data/dragon drops v1.3.17 (MC 26.2).zip"
+hash = "a5536fd9f2b097115933dac8d94a23d1cb4ae899f95843e5475b769158a9b19a"
+
+[[files]]
+file = "global_packs/required_data/elevators v1.0.18 (MC 26.2).zip"
+hash = "bad90ded01d3a3d1676670d4ca825df48579ee2fb36b81f8466adc621085de4b"
+
+[[files]]
+file = "global_packs/required_data/fast leaf decay v2.0.22 (MC 26.2).zip"
+hash = "19b69b16d29878dac9a2bea05bb3635ca96f6d97590499618e4ee5486bec66ea"
+
+[[files]]
+file = "global_packs/required_data/mini blocks v1.1.7 (MC 26.2).zip"
+hash = "bf63bd5b4c8d4fc416229ff57a14ae0cf7d0569d9d0fb14d0f70b1ae61d82f5a"
+
+[[files]]
+file = "global_packs/required_data/more effective tools v1.0.11 (MC 26.2).zip"
+hash = "876d2fb8f9ec5caaefd1fa17f0d250c40e7e3664120f6fe3c1e3dbaad8d71675"
+
+[[files]]
+file = "global_packs/required_data/more mob heads v2.20.0 (MC 26.2).zip"
+hash = "58f977bda12d097cb66fed3188f3cff1bb303569c740ba47c19d8f0d262e4611"
+
+[[files]]
+file = "global_packs/required_data/painting picker v1.1.4 (MC 26.2).zip"
+hash = "72b9bb2585f4c25ece20a6288001695bc518fbeaf6589bbe5e3f3e192ddcdb80"
+
+[[files]]
+file = "global_packs/required_data/player head drops v1.1.17 (MC 26.2).zip"
+hash = "d57d4d6ee5a63d68d0b52cd4a18cca3b353b0b2ec9264e751a3967dc3d75b916"
+
+[[files]]
+file = "global_packs/required_data/silence mobs v1.2.11 (MC 26.2).zip"
+hash = "757b50b2ab9e1859ead4dd5b7551c15f733d5a10bf44603dc4d49745e43f15d8"
+
+[[files]]
+file = "global_packs/required_resources/brighter-sulfur-panorama.pw.toml"
+hash = "05fb03e67f032f3d73bec33b4124cd04484b644a6c7c7fcfc84008b35623a999"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "6e746361934be98d7b3856f85d4984a611611dbacbecbcefc14fe12b97c81339"
 metafile = true
@@ -12,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "12a622f6d7b5fd7c1a602ce0379eeb67af4c2174f9b14e4ba322d17f15421b6e"
 metafile = true
 
 [[files]]
@@ -147,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/brighter-sulfur-panorama.pw.toml"
-hash = "05fb03e67f032f3d73bec33b4124cd04484b644a6c7c7fcfc84008b35623a999"
 metafile = true
 
 [[files]]
