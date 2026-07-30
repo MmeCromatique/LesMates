@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text eol=lf
+*.ini text eol=lf
+*.png binary
+*.gif binary
+*.ogg binary
+*.mp3 binary
+*.pnd binary
+autocrlf=false

@@ -1,0 +1,13 @@
+name = "Les Mates"
+author = "MmeCromatique"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "144e7d1d9d5faf0b26bab6865fd2e1def43f40e54a112e9525682a18f60f1262"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

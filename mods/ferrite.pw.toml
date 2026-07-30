@@ -1,0 +1,13 @@
+name = "Ferrite"
+filename = "ferrite-0.7.1-alpha+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c2DHmFvV/versions/PTsR1ac6/ferrite-0.7.1-alpha%2B26.2.jar"
+hash-format = "sha512"
+hash = "e269ea6dc6f59d2e8ab8d50e462cc05ff885172e3d1d5b42a61e783b64988af8f5ea617969a8b31f701b7c4cb95e4fdbdcdec75683680c711591e78544b30c49"
+
+[update]
+[update.modrinth]
+mod-id = "c2DHmFvV"
+version = "PTsR1ac6"
