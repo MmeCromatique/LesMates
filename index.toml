@@ -13,32 +13,36 @@ file = "global_packs/required_data/VanillaTweaks_c209676_MC26.2.zip"
 hash = "079a74ba7c95af0700dd002fe7f474b4b920c643c06ecf389a8b654ee20ac939"
 
 [[files]]
+file = "global_packs/required_data/VanillaTweaks_d916415_UNZIP_ME.zip"
+hash = "a6f0df499098d1a42860b0bab6286b23f8b44f27c6a56ec9f282cbee7503fdab"
+
+[[files]]
 file = "global_packs/required_data/anti enderman grief v1.1.17 (MC 26.2).zip"
-hash = "f5167c972eca6244ddebb7326ad3c0ac4891484757c4dd7fcf3f215a3a2f66ad"
+hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
 
 [[files]]
 file = "global_packs/required_data/armor statues v2.8.23 (MC 26.2).zip"
-hash = "cca52a583edf5fd155dd7fa40415d21e9b75efb3f9d3961bd101d96bfa6cb43d"
+hash = "9fcbb5875c40c7616a9c8200b5db4cef53d9fe157da8b9d4682ad31c8ba2b448"
 
 [[files]]
 file = "global_packs/required_data/cauldron concrete v3.1.1 (MC 26.2).zip"
-hash = "40854d2e0b76e92c33772d54023b60b44aecd3bb4511609683ac017c80fa5f80"
+hash = "133c16628ed35bc28317f41eefd2f99c4b6ed8cea165819032de3c0b7b8ec9d7"
 
 [[files]]
 file = "global_packs/required_data/cauldron mud v1.0.10 (MC 26.2).zip"
-hash = "dfd6db4b276e3190ba656b44a7d1d7b856b6c4eac068e7852da7bdf2874e47fb"
+hash = "c5300be977d28bb1eeb7c1483a6c07d191b56bd1ffd4a22f5fc08ac89e3e88f8"
 
 [[files]]
 file = "global_packs/required_data/custom nether portals v2.3.20 (MC 26.2).zip"
-hash = "2dd1d56949e24faabec1c3025bc2249eebd81606e3fe181d1df13a57781375ab"
+hash = "141ff3190a16935259beefd0a562ebe7769f7b78f82f64d0aebe30c57f743054"
 
 [[files]]
 file = "global_packs/required_data/dragon drops v1.3.17 (MC 26.2).zip"
-hash = "5d1282997a57de01f3789caaefb4041585905d975ecef16e5a03529601bdcef5"
+hash = "a5536fd9f2b097115933dac8d94a23d1cb4ae899f95843e5475b769158a9b19a"
 
 [[files]]
 file = "global_packs/required_data/elevators v1.0.18 (MC 26.2).zip"
-hash = "e10e5c35bcd92dc6ce70d55984330d2c5659be60eb77318edf45cc85a58fa5d8"
+hash = "bad90ded01d3a3d1676670d4ca825df48579ee2fb36b81f8466adc621085de4b"
 
 [[files]]
 file = "global_packs/required_data/fast leaf decay v2.0.22 (MC 26.2).zip"
@@ -46,7 +50,7 @@ hash = "24e7f87d8bb5a68362c8ee6771c48692d286e2f5aaf85e9a33be9fd18f7eda36"
 
 [[files]]
 file = "global_packs/required_data/mini blocks v1.1.7 (MC 26.2).zip"
-hash = "a4835391466c38735b4ddce9dc502e97459e0abbf18b78dbbea682c21859d175"
+hash = "bf63bd5b4c8d4fc416229ff57a14ae0cf7d0569d9d0fb14d0f70b1ae61d82f5a"
 
 [[files]]
 file = "global_packs/required_data/more effective tools v1.0.11 (MC 26.2).zip"
@@ -54,19 +58,19 @@ hash = "5824b7ff60acbcb0dde7836c370d4929fdb81de383557d452658faeaf87d4cdd"
 
 [[files]]
 file = "global_packs/required_data/more mob heads v2.20.0 (MC 26.2).zip"
-hash = "61acea1cff8a2bf8ffd8a936923f496d3fed797095bcd19f16be9382fe22e051"
+hash = "58f977bda12d097cb66fed3188f3cff1bb303569c740ba47c19d8f0d262e4611"
 
 [[files]]
 file = "global_packs/required_data/painting picker v1.1.4 (MC 26.2).zip"
-hash = "f271b95923f2664b9722b4a60563f445a55acd156fcbe1c8eaf8f3034a607c8e"
+hash = "72b9bb2585f4c25ece20a6288001695bc518fbeaf6589bbe5e3f3e192ddcdb80"
 
 [[files]]
 file = "global_packs/required_data/player head drops v1.1.17 (MC 26.2).zip"
-hash = "c0f9912a9592d68020d03295bf5e3cf9a1089050d22c81019dc2b51d8dbcd212"
+hash = "d57d4d6ee5a63d68d0b52cd4a18cca3b353b0b2ec9264e751a3967dc3d75b916"
 
 [[files]]
 file = "global_packs/required_data/silence mobs v1.2.11 (MC 26.2).zip"
-hash = "09a54f478af155486ef4bcc4ddab6ccec2d4459105b35b649ac9fbf15c2a7efa"
+hash = "757b50b2ab9e1859ead4dd5b7551c15f733d5a10bf44603dc4d49745e43f15d8"
 
 [[files]]
 file = "global_packs/required_resources/brighter-sulfur-panorama.pw.toml"
