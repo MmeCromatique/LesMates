@@ -13,10 +13,6 @@ file = "global_packs/required_data/VanillaTweaks_c209676_MC26.2.zip"
 hash = "079a74ba7c95af0700dd002fe7f474b4b920c643c06ecf389a8b654ee20ac939"
 
 [[files]]
-file = "global_packs/required_data/VanillaTweaks_d916415_UNZIP_ME.zip"
-hash = "a6f0df499098d1a42860b0bab6286b23f8b44f27c6a56ec9f282cbee7503fdab"
-
-[[files]]
 file = "global_packs/required_data/anti enderman grief v1.1.17 (MC 26.2).zip"
 hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
 
