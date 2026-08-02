@@ -5,6 +5,10 @@ file = "com.unascribed.unsup.json"
 hash = "3b28a4b27a6870a5ab752f9f1fefffa59be3b4168aee245d9b44072640e8a82c"
 
 [[files]]
+file = "config/chloride-client.toml"
+hash = "13c4e7efad73b5944170e04b79c9af8ce40dd235c9682b87bed65b3a718b6c56"
+
+[[files]]
 file = "config/iris.properties"
 hash = "156a162864179c68d93bb84a08b9e50e9bb5852ad2d9344488253107ed5038f4"
 
