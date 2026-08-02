@@ -199,6 +199,11 @@ hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "acc335fab0a09c3930d5a755a6b16da3b87336ef8f5f4bd4458a793359995786"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
