@@ -6,4 +6,5 @@
 *.ogg binary
 *.mp3 binary
 *.pnd binary
+*.emotecraft binary
 autocrlf=false
