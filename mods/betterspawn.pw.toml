@@ -1,0 +1,8 @@
+name = "betterspawn"
+filename = "betterspawn-1.0.0-26.1.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/2dwnu2of6oejbbtyeg5nu/betterspawn-1.0.0-26.1.jar?rlkey=j5bfe79d79pv92mwvz2zh0h1t&st=lmaxp7hi&dl=1"
+hash-format = "sha256"
+hash = "9dac9ef6dc278c54e37c714450062f501b96dcecedd0f2ab94caf521497a0c69"

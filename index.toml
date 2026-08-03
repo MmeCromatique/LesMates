@@ -33,6 +33,11 @@ hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
 metafile = true
 
 [[files]]
+file = "mods/betterspawn.pw.toml"
+hash = "fd348394d13d9869baaef85c9e54a7244c51fbd87f9d678b2a42a1726b0f998b"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "6e746361934be98d7b3856f85d4984a611611dbacbecbcefc14fe12b97c81339"
 metafile = true
