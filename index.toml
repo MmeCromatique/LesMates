@@ -23,6 +23,11 @@ hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "c9f9627be115f45d91c1c47f5b672f58cfcff004954e3cfe5a71f5c1577ec32e"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
 metafile = true
@@ -45,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "b29699ffd8e82caa132d287a4383d67ae5c19be90a9bcf75b3bef0a8e1456562"
+metafile = true
+
+[[files]]
+file = "mods/elytra-contrails-mod.pw.toml"
+hash = "d6765a3d2b8ebbe0dfa8e2e9ae885c593dbddb43e1c9a0568b36c3f77406ed53"
 metafile = true
 
 [[files]]
@@ -85,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/fism.pw.toml"
 hash = "3d16a74a9b47b60ce135ddc45350ff8301f37ef19b2b602dcd3373d5077eec23"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "408a865f47aa6ae97f4c5df9c68c6761c04c0f0a744edb28f5256146763ab8b6"
 metafile = true
 
 [[files]]
