@@ -9,6 +9,10 @@ file = "config/chloride-client.toml"
 hash = "13c4e7efad73b5944170e04b79c9af8ce40dd235c9682b87bed65b3a718b6c56"
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "60150421667523513bd28dfc2120c35514479d2c658e363c2344008bdbab18c8"
+
+[[files]]
 file = "config/iris.properties"
 hash = "156a162864179c68d93bb84a08b9e50e9bb5852ad2d9344488253107ed5038f4"
 
